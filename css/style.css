@@ -1,0 +1,28 @@
+/* * {
+	color: rgb(5, 8, 8);
+} */
+ul,
+ol,
+a {
+	color: grey;
+}
+
+.block-1 p {
+	color: blue;
+}
+
+.block-2>p {
+	color: green;
+}
+
+.block-3 {
+	color: red;
+}
+
+.block-4~p {
+	color: blueviolet;
+}
+
+.block-5+p {
+	color: brown;
+}
